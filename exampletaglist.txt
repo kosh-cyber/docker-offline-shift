@@ -1,0 +1,10 @@
+alpine:latest:021b3423115f
+ubuntu:20.04:1318b700e415
+ubuntu:bionic:39a8cfeef173
+centos:7:8652b9f0cb4c
+python:3.4-alpine:c06adcf62f6e
+alpine:3.7:6d1ef012b567
+tomcat:8.0:ef6a7c98d192
+vulhub/bind:latest:6be719247710
+debian:9.2:6d83de432e98
+tomcat:8.0.36-jre8:945050cf462d
